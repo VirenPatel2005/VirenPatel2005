@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Viren Patel
+- 👀 I’m interested in Web/Software development and desiging and Database.
+- 💬 Ask me about html,css,java,c,c++ and android.
+- 🌱 I’m currently learning Computer Science And Engineering
+- 💞️ I’m looking to collaborate on any kind of technical projects
+- 📫 How to reach me radadiyaviren32@gmail.com
