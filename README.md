@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Viren Patel<br>👀 I’m interested in Web/Software development and desiging and Database.<br>💬 Ask me about html,css,java,c,c++ and android.<br>🌱 I’m currently learning Computer Science And Engineering<br>💞️ I’m looking to collaborate on any kind of technical projects<br>📫 How to reach me radadiyaviren32@gmail.com
+👋 Hi, I’m Viren Patel<br>👀 I’m interested in Web/Software development and desiging and Database.<br>💬 Ask me about html,css,java,c,c++,android,adobi photoshop,adobi illustrator and adobi photoshop.<br>🌱 I’m currently learning Computer Science And Engineering<br>💞️ I’m looking to collaborate on any kind of technical projects<br>📫 How to reach me radadiyaviren32@gmail.com
 
 
 ## 🌐 Socials:
