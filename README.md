@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Viren Patel<br>👀 I’m interested in Full-stack development and Database.<br>💬 Ask me about html ,css ,php, java, c, c++, js, React-js, Node-js, adobi illustrator and adobi photoshop.<br>🌱 I’m currently pursuing Computer Science And Engineering<br>💞️ I’m looking to collaborate on any kind of technical projects<br>📫 How to reach me radadiyaviren32@gmail.com
+👋 Hi, I’m Viren Patel<br>👀 I’m interested in Full-stack development and Database.<br>💬 Ask me about html ,css ,php, java, c, c++, js, React-js, Node-js, MySQL, adobi illustrator and adobi photoshop.<br>🌱 I’m currently pursuing Computer Science And Engineering<br>💞️ I’m looking to collaborate on any kind of technical projects<br>📫 How to reach me radadiyaviren32@gmail.com
 
 
 ## 🌐 Socials:
